@@ -1,0 +1,16 @@
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\ApplicationSettings\bin\Debug\ApplicationSettings.exe.config
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\ApplicationSettings\bin\Debug\ApplicationSettings.exe
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\ApplicationSettings\bin\Debug\ApplicationSettings.pdb
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\ApplicationSettings\obj\Debug\ApplicationSettings.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\ApplicationSettings\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\ApplicationSettings\obj\Debug\App.g.cs
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\ApplicationSettings\obj\Debug\ApplicationSettings_MarkupCompile.cache
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\ApplicationSettings\obj\Debug\ApplicationSettings_MarkupCompile.lref
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\ApplicationSettings\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\ApplicationSettings\obj\Debug\ApplicationSettings.g.resources
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\ApplicationSettings\obj\Debug\ApplicationSettings.Properties.Resources.resources
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\ApplicationSettings\obj\Debug\ApplicationSettings.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\ApplicationSettings\obj\Debug\ApplicationSettings.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\ApplicationSettings\obj\Debug\ApplicationSettings.exe
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\ApplicationSettings\obj\Debug\ApplicationSettings.pdb
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\ApplicationSettings\obj\Debug\GeneratedInternalTypeHelper.g.cs

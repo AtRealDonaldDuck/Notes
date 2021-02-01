@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\PokemonType\Pokedex\bin\Debug\Pokedex.exe.config
+C:\Users\User\source\repos\PokemonType\Pokedex\bin\Debug\Pokedex.exe
+C:\Users\User\source\repos\PokemonType\Pokedex\bin\Debug\Pokedex.pdb
+C:\Users\User\source\repos\PokemonType\Pokedex\obj\Debug\Pokedex.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PokemonType\Pokedex\obj\Debug\Pokedex.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PokemonType\Pokedex\obj\Debug\Pokedex.exe
+C:\Users\User\source\repos\PokemonType\Pokedex\obj\Debug\Pokedex.pdb
+C:\Users\User\source\repos\PokemonType\Pokedex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\PokemonType\Pokedex\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\PokemonType\Pokedex\obj\Debug\Pokedex.csproj.CopyComplete

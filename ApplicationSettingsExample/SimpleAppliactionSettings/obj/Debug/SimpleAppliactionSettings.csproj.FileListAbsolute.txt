@@ -1,0 +1,16 @@
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\SimpleAppliactionSettings\bin\Debug\SimpleAppliactionSettings.exe.config
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\SimpleAppliactionSettings\bin\Debug\SimpleAppliactionSettings.exe
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\SimpleAppliactionSettings\bin\Debug\SimpleAppliactionSettings.pdb
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\SimpleAppliactionSettings\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\SimpleAppliactionSettings\obj\Debug\App.g.cs
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\SimpleAppliactionSettings\obj\Debug\SimpleAppliactionSettings_MarkupCompile.cache
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\SimpleAppliactionSettings\obj\Debug\SimpleAppliactionSettings_MarkupCompile.lref
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\SimpleAppliactionSettings\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\SimpleAppliactionSettings\obj\Debug\SimpleAppliactionSettings.g.resources
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\SimpleAppliactionSettings\obj\Debug\SimpleAppliactionSettings.Properties.Resources.resources
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\SimpleAppliactionSettings\obj\Debug\SimpleAppliactionSettings.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\SimpleAppliactionSettings\obj\Debug\SimpleAppliactionSettings.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\SimpleAppliactionSettings\obj\Debug\SimpleAppliactionSettings.exe
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\SimpleAppliactionSettings\obj\Debug\SimpleAppliactionSettings.pdb
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\SimpleAppliactionSettings\obj\Debug\SimpleAppliactionSettings.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Content\Code\Notes\ApplicationSettingsExample1\SimpleAppliactionSettings\obj\Debug\GeneratedInternalTypeHelper.g.cs
